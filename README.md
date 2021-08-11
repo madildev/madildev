@@ -40,7 +40,15 @@
 </table>
 
 ## Github Stats
-<div display="grid" justify-content="center" align-content="center" >
-   <img src="https://github-readme-stats.vercel.app/api?username=madildev&show_icons=true&theme=radical">
-   <img align='right' height='50%' width='40%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=madildev&show_icons=true&theme=radical&layout=compact">
-</div>
+<table width="100" display="none">
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=madildev&show_icons=true&theme=radical">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madildev&show_icons=true&theme=radical&layout=compact">    
+    </td>
+  </tr>
+</table>
+   
+   
