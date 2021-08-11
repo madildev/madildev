@@ -1,8 +1,10 @@
-# <div align="center">Hi, its Adil<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
+# <div align="center">Hi There, I'm Adil<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
-- 🔭 I’m currently working on improving my skills and vue.js
-- 🌱 I’m currently learning full-stack development with vue.js
-- 📫 How to reach me: Hmmm... Thats a tough One.. 
+- 🔭 I’m currently working on improving my skills and Vue.js
+- 🌱 I’m currently learning
+    * Full-Stack Development 😎
+    * Vue.js 😄
+- 📫 How to reach me: Hmmm... Thats a tough One...🙄😶
 - ⚡ Fun fact: Its a secret
 
 ## 💻 Tech Stack
