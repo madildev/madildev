@@ -1,4 +1,4 @@
-## Hi, I am Adil 👋
+# <div align="center">Hi, its Adil<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" alt="Waving"></div>
 
 - 🔭 I’m currently working on improving my skills and vue.js
 - 🌱 I’m currently learning full-stack development with vue.js
