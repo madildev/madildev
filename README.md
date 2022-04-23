@@ -41,7 +41,8 @@
     rel="noreferrer"> 
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+      alt="javascript" width="40" height="40" /> </a>
+      <img width="40" height="40" src="https://vuejs.org/images/logo.png" alt="Vue logo" /><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"></a>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
