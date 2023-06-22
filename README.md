@@ -5,11 +5,15 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="madildev" /></p>
 
+- Associate Software Engineer @Technosoft
+
+- ⚠ Former Backend Intern  @ILI Digital
+
 - 👀 Former Web Development Lead @GDG Uet
-- ⚠ Former Backend Developer @ILI Digital
+ 
 - 🌱 I’m interested in Full-Stack Development
 
-- ✨Currently Experimenting with Game Development
+- ✨Currently Experimenting with Dot Net
 
 - 📫 How to reach me **muhammadadil15101@gmail.com**
 
