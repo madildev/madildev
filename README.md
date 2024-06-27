@@ -11,8 +11,6 @@
 
 - ✨ Currently Experimenting with Dot Net
 
-- 📫 How to reach me **muhammadadil15101@gmail.com**
-
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
